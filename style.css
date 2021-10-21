@@ -1,0 +1,49 @@
+body{
+    background-size: cover;
+    color:black;
+}
+
+.environment_li
+{
+  margin-top: 13px;
+  
+}
+
+.environment_li h4
+{
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.environment_li img
+{
+  border-radius: 25px;
+}
+
+.environment_li p
+{
+  margin-top:10px;
+}
+
+.list-group-item-text{
+  font-size:medium;
+}
+.one{
+  background-color: lightgoldenrodyellow;
+}
+.two{
+  background-color:lightblue;
+}
+#button1{
+  width:50%;
+  border-radius: 90%;
+}.heading{
+  margin:0;
+  border-radius: 100px;
+}
+.list-group-item-text{
+  font-size:20;
+}
+h2,h1{
+  text-align: center;
+}
